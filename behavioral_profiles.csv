@@ -1,0 +1,6 @@
+IP Address,Total Packets,Total Bytes,Avg Packet Size,Std Packet Size,Encrypted Pkts,Unencrypted Pkts,Enc Ratio (%),Top Protocol,Unique Protocols,Unique Dest IPs
+192.168.1.11,110,68746,625.0,466.3,50,60,45.5,TLS,7,5
+192.168.1.30,105,74502,709.5,441.5,61,44,58.1,TLS,7,5
+10.0.0.5,101,67651,669.8,471.3,52,49,51.5,TLS,7,5
+192.168.1.10,93,60089,646.1,501.7,56,37,60.2,TLS,7,5
+192.168.1.20,91,57631,633.3,465.1,41,50,45.1,TLS,7,5

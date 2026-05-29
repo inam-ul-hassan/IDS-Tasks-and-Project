@@ -1,0 +1,6 @@
+IP Address,MAC Address,Device Type,Packet Count,Protocols Used,Avg Pkt Size,Total Bytes
+192.168.1.11,aa:bb:cc:dd:ee:05,IoT Device,110,"DNS, FTP, HTTP, ICMP, SSH, TLS, VPN",625.0,68746
+192.168.1.30,aa:bb:cc:dd:ee:02,IoT Device,105,"DNS, FTP, HTTP, ICMP, SSH, TLS, VPN",709.5,74502
+10.0.0.5,aa:bb:cc:dd:ee:05,IoT Device,101,"DNS, FTP, HTTP, ICMP, SSH, TLS, VPN",669.8,67651
+192.168.1.10,aa:bb:cc:dd:ee:05,IoT Device,93,"DNS, FTP, HTTP, ICMP, SSH, TLS, VPN",646.1,60089
+192.168.1.20,aa:bb:cc:dd:ee:01,IoT Device,91,"DNS, FTP, HTTP, ICMP, SSH, TLS, VPN",633.3,57631
